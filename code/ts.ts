@@ -90,7 +90,7 @@ function c<T>(type: T) {
 }
 
 c<number>(3)
-c<string>(3)
+c<string>(3) // 报错, 3 不是string类型
 
 // let age
 // age = 18
