@@ -1,4 +1,4 @@
-# lagouTestNote
+# fed-e-task-01-01
 1、10, 执行时i 已经循环完，值为10;
 
 2、temp is not defined; let、 const所在块级作用域中形成“暂时性死区”, 封闭作用域内定义的变量，其指向作用域内定义的参数，但是let、const没有声明提升，所以用在之前的变量会报错
